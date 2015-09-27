@@ -1,0 +1,22 @@
+{
+  "name": "formulatrix",
+  "version": "0.0.1",
+  "description": "A lil' phrase template utility",
+  "main": "formulatrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robhdawson/formulatrix.git"
+  },
+  "keywords": [
+    "text generator", "mad libs"
+  ],
+  "author": "Robert Dawson <robhdawson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robhdawson/formulatrix/issues"
+  },
+  "homepage": "https://github.com/robhdawson/formulatrix"
+}
