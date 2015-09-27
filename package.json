@@ -1,6 +1,6 @@
 {
   "name": "formulatrix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lil' phrase template utility",
   "main": "formulatrix.js",
   "scripts": {

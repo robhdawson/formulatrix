@@ -15,7 +15,7 @@ Formulatrix.prototype.addTemplates = function(templates) {
       slot
 
   templates.forEach(function(t) {
-    temp = t.split(/(\s+)/)
+    temp = t.split(/([\s\.,!?:']+)/)
     this.templates.push(temp)
 
     temp.forEach(function(w) {
